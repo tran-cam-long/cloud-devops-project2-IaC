@@ -6,5 +6,9 @@
 	{
 		"ParameterKey": "ProjectName",
 		"ParameterValue": "Cloud-Devops-Project2"
+	},
+	{
+		"ParameterKey": "S3BucketName",
+		"ParameterValue": "longtc1-udagram-s3"
 	}
 ]
